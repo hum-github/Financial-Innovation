@@ -5,4 +5,4 @@
 主題：數據策略性角色\
 受眾：在美國的個人投資者 \
 功能：市場資訊供應\
-資料來源：Bloomberg, American Association of Individual Investors(AAII), CNN，Yahoo Finance
+資料來源：Bloomberg, American Association of Individual Investors(AAII), CNN, Yahoo Finance
